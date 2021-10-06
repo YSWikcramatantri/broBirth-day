@@ -2,7 +2,7 @@ body {
   display: flex;
   justify-content: center;
 }
-.container {
+img {
   
 }
 .container:before, .container:after {
