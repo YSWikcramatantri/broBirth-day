@@ -2,8 +2,13 @@ body {
   display: flex;
   justify-content: center;
 }
+.container {
+  display: flex;
+  justify-content: center;
+}
 img {
-  
+  max-width: 80%;
+  height: auto;
 }
 .container:before, .container:after {
 	content: '';
